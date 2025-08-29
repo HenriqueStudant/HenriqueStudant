@@ -5,8 +5,7 @@ Sou um Desenvolvedor de Software e desejo ampliar cada dia mais os meus conhecim
 
 Atualemnte Estudando
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![HTML](https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.png)
-
+![HTML](https://www.vandelaydesign.com/wp-content/uploads/html5-tutorials-learn.png)
 
 <!--
 **HenriqueStudant/HenriqueStudant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
