@@ -2,10 +2,16 @@
 
 Sou um Desenvolvedor de Software e desejo ampliar cada dia mais os meus conhecimnentos!
 
+## 🛠 Tecnologias
 
-Atualemnte Estudando
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![HTML](https://img.shields.io/badge/-HTML-3776AB?logo=html&logoColor=white&style=for-the-badge)
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"
+       alt="HTML5" width="28" style="vertical-align:middle;">
+  <img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
+    alt="CSS3" width="28" style="vertical-align:middle; margin-left:8px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"
+       alt="Python" width="28" style="vertical-align:middle; margin-left:8px;">
+</p>
 
 <!--
 **HenriqueStudant/HenriqueStudant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
