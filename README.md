@@ -1,5 +1,7 @@
 ## Seja bem-vindo(a)! 👋
 
+Sou um Desenvolvedor de Software e desejo ampliar cada dia mais os meus conhecimnentos!
+
 <!--
 **HenriqueStudant/HenriqueStudant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
