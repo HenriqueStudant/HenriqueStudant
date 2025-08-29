@@ -2,6 +2,11 @@
 
 Sou um Desenvolvedor de Software e desejo ampliar cada dia mais os meus conhecimnentos!
 
+
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+
 <!--
 **HenriqueStudant/HenriqueStudant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
