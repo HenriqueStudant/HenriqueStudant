@@ -8,7 +8,7 @@ Sou um Desenvolvedor de Software e desejo ampliar cada dia mais os meus conhecim
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"
-       alt="HTML5" width="28" style="vertical-align:middle;">
+       alt="HTML5" width="28" style="vertical-align:middle; margin-left:8px;">
   <img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
     alt="CSS3" width="28" style="vertical-align:middle; margin-left:8px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"
