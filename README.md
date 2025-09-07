@@ -1,6 +1,6 @@
 ## Seja bem-vindo(a)! 👋
 
-Sou um Desenvolvedor de Software e desejo ampliar cada dia mais os meus conhecimnentos!
+Sou um Desenvolvedor de Software e desejo ampliar cada dia mais os meus conhecimentos!
 
 <p align="center">
  🛠 Tecnologias
